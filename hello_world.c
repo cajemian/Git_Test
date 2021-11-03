@@ -1,7 +1,6 @@
-%%This file has been edited
-#include <stdio.h>
-
+#include <iostream>
+using namespace std;
 int main() {
-   printf("Hello World!");
+   cout << "Hello, World!" << endl; // This prints Hello, World!
    return 0;
 }
