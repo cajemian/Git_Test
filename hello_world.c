@@ -5,5 +5,6 @@
 
 int main() {
   printf("Hello World!");
+  printf("Merge FeatureTest branch");
   return 0;
 }
